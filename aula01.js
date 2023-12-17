@@ -1,8 +1,7 @@
-function teste (numero1, numero2) {
-    const calculo = numero1 + numero2 
-    console.log(teste)
-    return calculo
+function myName (nome) {
+    console.log('seu nome é ' + nome)
+    
 }
+myName('Haref Maciel')
+myName('Flavia')
 
-const resultado = teste(20, 5)
-console.log(resultado)
