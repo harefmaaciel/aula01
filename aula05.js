@@ -5,7 +5,7 @@ function verificaIdade (idade) {
     if (idade >= 18) {
         console.log('Voce é maior de Idade ' + nome('Haref'))
     }else {
-    console.log(`${nome('Haref')} Voce tem ${idade} anos é menor de idade `)
+         console.log(`${nome('Haref')} Voce tem ${idade} anos é menor de idade `)
     }
 }
 
